@@ -8,7 +8,7 @@
 
 - 👨‍💻 Check projects on my LinkedIn profile
 
-- 💬 Ask me about **SQL, SparkSQL, Pyspark, Hive, Hadoop and Architecture and Python**
+- 💬 Ask me about **SQL, SparkSQL, Pyspark, Hive, Hadoop and Python**
 
 - 📫 For reaching out **gajerabhavik915@gmail.com**
 
